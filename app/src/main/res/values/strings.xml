@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizAppFirebase</string>
+    <string name="Tr_turkey">Türkiye</string>
+    <string name="Tr_france">Fransa</string>
+    <string name="Tr_spain">İspanya</string>
+    <string name="Tr_china">Çin</string>
+    <string name="Tr_america">Amerika</string>
+    <string name="Tr_italy">İtalya</string>
+</resources>
